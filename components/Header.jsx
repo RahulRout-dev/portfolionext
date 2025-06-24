@@ -32,12 +32,3 @@ const Header = () => {
 };
 
 export default Header;
-
-
-{/* <h1 className="text-4xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-green-100 to-blue-200">
-Kru
-<span className="text-transparent bg-clip-text bg-gradient-to-r from-green-300 to-blue-400">
-  tika
-</span>
-<span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500"> O.</span>
-</h1> */}
